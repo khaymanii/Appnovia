@@ -8,8 +8,8 @@ export default function Banner() {
       <div className="max-w-5xl mx-auto px-4 flex flex-col lg:flex-row items-center justify-between">
         {/* Text Content */}
         <div className="w-full lg:w-1/2 mb-8 lg:mb-0">
-          <h1 className="text-xl sm:text-2xl md:text-3xl lg:text-3xl font-bold mb-2">
-            Experience Advanced EMR Through Our Lens
+          <h1 className="text-xl sm:text-2xl lg:text-2xl font-bold mb-2">
+            Experience Advanced EMR <br /> Through Our Lens
           </h1>
           <p className="text-sm sm:text-base md:text-lg lg:text-lg mb-4">
             Get a closer look at how our EMR solution transforms patient care

@@ -4,7 +4,7 @@ import { Button, Link } from "@nextui-org/react";
 
 export default function Hero3() {
   return (
-    <div className="mt-20 max-w-5xl mx-auto px-4 flex flex-col-reverse lg:flex-row-reverse  justify-between">
+    <div className="mt-28 max-w-5xl mx-auto px-4 flex flex-col-reverse lg:flex-row-reverse  justify-between">
       {/* Text Content */}
       <div className="w-full lg:w-1/2 mt-6 lg:mt-0">
         <h1 className="text-xl sm:text-2xl lg:text-2xl font-bold mb-2">

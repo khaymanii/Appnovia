@@ -4,6 +4,8 @@ import Hero3 from "@/components/Hero3";
 import Hero4 from "@/components/Hero4";
 import Hero5 from "@/components/Hero5";
 import Banner from "@/components/Banner";
+import Card from "@/components/Card";
+import Testimonials from "@/components/Testimonials";
 
 export default function Home() {
   return (
@@ -14,6 +16,8 @@ export default function Home() {
       <Hero4 />
       <Hero5 />
       <Banner />
+      <Card />
+      <Testimonials />
     </div>
   );
 }
